@@ -1,0 +1,11 @@
+D:\GitHub\CRUD\Crud\Crud\bin\Debug\Crud.exe.config
+D:\GitHub\CRUD\Crud\Crud\bin\Debug\Crud.exe
+D:\GitHub\CRUD\Crud\Crud\bin\Debug\Crud.pdb
+D:\GitHub\CRUD\Crud\Crud\obj\Debug\Crud.csprojAssemblyReference.cache
+D:\GitHub\CRUD\Crud\Crud\obj\Debug\Crud.Properties.Resources.resources
+D:\GitHub\CRUD\Crud\Crud\obj\Debug\Crud.csproj.GenerateResource.cache
+D:\GitHub\CRUD\Crud\Crud\obj\Debug\Crud.csproj.CoreCompileInputs.cache
+D:\GitHub\CRUD\Crud\Crud\obj\Debug\Crud.exe
+D:\GitHub\CRUD\Crud\Crud\obj\Debug\Crud.pdb
+D:\GitHub\CRUD\Crud\Crud\obj\Debug\Crud.FrmCrud.resources
+D:\GitHub\CRUD\Crud\Crud\obj\Debug\Crud.FrmCadCliente.resources
